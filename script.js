@@ -19,5 +19,5 @@ function alegrarSe(){
 }
 
 function parabens(){
-    alert("Parabens, depois de "+ tentativas+" tentativas descobrimos que você realmente não gosta dele(a)");
+    alert("Parabens, depois de "+ tentativas+" tentativas tu me odeia mesmo");
 }
